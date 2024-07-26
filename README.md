@@ -1,2 +1,4 @@
 # LinRegMkt
-Simples análise de Regressão Linear sobre dados de Marketing
+Projeto desenvolvido para um desafio da Escola DNC.
+
+Construído um modelo de Regressão para marketing com uma simples análise sobre dados de Marketing
